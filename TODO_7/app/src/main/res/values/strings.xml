@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CounterHomeWork</string>
+    <string name="button">Count</string>
+    <string name="input_text">Enter text here</string>
+</resources>

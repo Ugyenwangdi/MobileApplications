@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="enter_operand_one_here">Enter operand one here</string>
+    <string name="enter_operand_two_here">Enter operand two here</string>
+    <string name="add">Add</string>
+    <string name="sub">Sub</string>
+    <string name="mul">Mul</string>
+    <string name="div">Div</string>
+    <string name="computationError">Could not compute the operation</string>
+</resources>
