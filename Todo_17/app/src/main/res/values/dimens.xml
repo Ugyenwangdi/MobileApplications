@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="buttonsize">70dp</dimen>
+    <dimen name="textSize">40sp</dimen>
+    <dimen name="scoreSize">60sp</dimen>
+</resources>
