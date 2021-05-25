@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Todo_21</string>
+    <string name="start_task">Start Task</string>
+    <string name="sleeping">Napping</string>
+</resources>
